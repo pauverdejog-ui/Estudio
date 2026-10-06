@@ -2,12 +2,6 @@
 
 App web (PWA) para marcar el temario estudiado de cada asignatura, ver el progreso y las fechas de examen y PEC. Funciona sin conexión y guarda los datos solo en el móvil.
 
-## Publicarla en GitHub Pages
-
-1. Crea un repositorio nuevo en GitHub (por ejemplo `temario`).
-2. Sube **todos** los archivos de esta carpeta a la raíz del repositorio (incluida la carpeta `icons`). Desde la web: *Add file → Upload files*.
-3. En el repositorio: *Settings → Pages → Build and deployment*, elige *Deploy from a branch*, rama `main`, carpeta `/ (root)` y guarda.
-4. En un par de minutos estará en `https://TU-USUARIO.github.io/temario/`.
 
 ## Instalarla en el móvil
 
